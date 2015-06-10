@@ -7,7 +7,7 @@
         <authors>jdeering</authors>
         <owners>jdeering</owners>
         <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
-        <projectUrl>https://github.com/jdeering/coveralls.net</projectUrl>
+        <projectUrl>https://github.com/coveralls-net/coveralls.net</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Program for sending coverage reports to coveralls.io</description>
         <releaseNotes />
